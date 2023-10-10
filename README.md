@@ -1,4 +1,4 @@
 Custom Repo Link:
 
-`https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json`
+`https://raw.githubusercontent.com/levinkin/MyDalamudPlugins/main/pluginmaster.json`
 
