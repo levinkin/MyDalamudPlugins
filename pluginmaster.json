@@ -15,12 +15,12 @@
         "ImageUrls": [
             "https://i.imgur.com/iEcxM81.png"
         ],
-        "DownloadLinkInstall": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "DownloadLinkInstall": "https://github.com/levinkin/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "DownloadLinkTesting": "https://github.com/levinkin/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/levinkin/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1696974143"
+        "LastUpdated": "1696976265"
     }
 ]
